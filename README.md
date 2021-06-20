@@ -1,2 +1,3 @@
 # CLONE_NETFLIX_DIOBOOTCAMP
-Um Clone da página da netflix
+<hr>
+Um Clone da página da netflix feito com apoio do Bootcamp HTML Developer da Digital Innovation One
